@@ -1,4 +1,4 @@
-# solidwork-practices
+# solidwork-practice
 # 🦅 GARAGE OF GARUDA - SolidWorks Practice Files 🛠️  
 > *Because every design starts with a sketch… and ends with 37 rebuild errors.*
 
