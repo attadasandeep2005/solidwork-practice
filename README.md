@@ -1,5 +1,5 @@
 # solidwork-practice
-# 🦅 GARAGE OF GARUDA - SolidWorks Practice Files 🛠️  
+# 🦅 GARAGE OF GARUDA - SolidWorks Practice Files 🛠️   
 > *Because every design starts with a sketch… and ends with 37 rebuild errors.*
 
 Welcome to my personal **SolidWorks jungle**, where sketches roam free, constraints are optional, and assemblies are held together with faith, friction, and a touch of caffeine-fueled desperation.
